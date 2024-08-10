@@ -16,7 +16,7 @@ The **Study Plan Generator** is a Streamlit application that helps you create a 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repository/study-plan-generator.git
+   git clone https://github.com/realtourani/study-planner.git
 
 
 2. **Navigate to the Project Directory:**:
