@@ -33,15 +33,15 @@ Make sure you have Python installed, then install the required packages:
     streamlit run app.py
 
 ## Usage:
-1- Course Selection:
+1. **Course Selection:**
     - The course selection section displays images for each course in a grid format.
 
-2- Input Study Parameters:
+2. **Input Study Parameters:**
     - <b>Start Date</b>: Select the date when you plan to begin your study.
     - <b>Daily Study Hours</b>: Use the slider to choose how many hours per day you want to study.
     - <b>Parallel Courses</b>: Use the slider to select how many courses you want to study at the same time.
 
-3- Generate Study Plan:
+3. **Generate Study Plan:**
 
     - Click the "Generate Study Plan" button to create a custom study schedule based on your inputs.
     - The study plan will be displayed in a table, showing the date, course name, allocated time, and remaining time for each course.
